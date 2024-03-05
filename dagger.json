@@ -1,4 +1,6 @@
 {
   "name": "getting-started",
+  "sdk": "typescript",
+  "source": "dagger",
   "engineVersion": "v0.10.0"
 }
